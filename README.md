@@ -13,6 +13,12 @@ And at least in the beginning, people won't have a benchmark for what is good (3
 
 ---
 
+A great extension that reveals the dislike count is: https://www.returnyoutubedislike.com/
+
+[The maker of the extension said](https://github.com/Anarios/return-youtube-dislike#:~:text=With%20the%20removal%20of%20dislike%20stats%20from%20the%20YouTube%20API%2C%20our%20backend%20will%20switch%20to%20using%20a%20combination%20of%20scraped%20dislike%20stats%2C%20estimates%20extrapolated%20from%20extension%20user%20data%20and%20estimates%20based%20on%20view%5Clike%20ratios.) YouTube will remove the dislike stats from YouTube API. So I make this in case that extension stops working properly.
+
+---
+
 To install this extension:
 
 1. [Enable Developer Mode in Chrome](https://developer.chrome.com/docs/extensions/mv2/faq/#:~:text=You%20can%20start%20by%20turning,a%20packaged%20extension%2C%20and%20more.)
