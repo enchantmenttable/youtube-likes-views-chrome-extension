@@ -1,0 +1,25 @@
+{
+    "name": "Likes/Views",
+    "description": "👍/👀",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "48": "src/images/icon.png"
+    },
+    "host_permissions": [
+        "*://*.youtube.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.youtube.com/*"
+            ],
+            "exclude_matches": [
+                "*://*.music.youtube.com/*"
+            ],
+            "js": [
+                "src/js/content.js"
+            ]
+        }
+    ]
+}
