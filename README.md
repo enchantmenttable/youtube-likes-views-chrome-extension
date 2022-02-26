@@ -22,6 +22,6 @@ A great extension that reveals the dislike count is: https://www.returnyoutubedi
 To install this extension:
 
 1. [Enable Developer Mode in Chrome](https://developer.chrome.com/docs/extensions/mv2/faq/#:~:text=You%20can%20start%20by%20turning,a%20packaged%20extension%2C%20and%20more.)
-2. Clicking the green "Code" button → "Download ZIP".
+2. Click the green "Code" button → "Download ZIP".
 3. Go to chrome://extensions/ in your browser.
 4. Unzip the downloaded file. Then drag the folder into the Extensions screen. It's done.
