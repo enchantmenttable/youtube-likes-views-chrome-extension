@@ -7,7 +7,7 @@ This may be helpful in some cases, since the dislike count has been removed.
 
 ---
 
-"May be" because a good video is not necessary the one that causes a strong-enough emotion so that people will click the like button. But many people will watch it → low likes/views ratio, but that does not necessarily mean the video is bad. Or in the case of music videos, a person will listen to one song multiple times.
+"May be" because a good video is not necessary the one that causes a strong-enough emotion so that people will click the like button. But many people will watch it → low likes/views ratio, which may leave an impression that the video is bad. Or in the case of music videos, a person will listen to one song multiple times.
 
 And at least in the beginning, people won't have a benchmark for what is good (3.4%, 1.2%,... what does that mean?). Compared to the earlier version of YouTube, just look at the likes/dislikes bar and if 20% are dislikes, then the video is bad.
 
